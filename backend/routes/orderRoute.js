@@ -1,5 +1,5 @@
 import express from "express";
-import authMiddleware from "../middleware/Auth.js";
+import authMiddleware from "../middleware/auth.js";
 import {
   listOrder,
   placeOrder,
